@@ -5459,13 +5459,13 @@ pre[class*='language-txt']:before {
 .theme-light pre[class*="language-"] {
     color: #4c5064 !important;
     text-shadow: none;
-    font-family: var(--mono-font), var(--cjk-font);
+  /* font-family: var(--mono-font), var(--cjk-font); */
 }
 .theme-dark code[class*="language-"],
 .theme-dark pre[class*="language-"] {
     color: #D1CCBD !important;
     text-shadow: none;
-    font-family: var(--mono-font), var(--cjk-font);
+  /* font-family: var(--mono-font), var(--cjk-font); */
 }
 
 .theme-dark .token.keyword, .theme-light .token.keyword {

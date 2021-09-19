@@ -901,6 +901,7 @@ to get a right-side note block
 /*edit mode font size*/
 pre.CodeMirror-line {
   font-size: var(--font-size-edit-normal) !important;
+  line-height: 1.4em !important;
 }
 
 /*preview mode font size*/
